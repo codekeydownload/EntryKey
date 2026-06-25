@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://YOUR_USERNAME.github.io/EnteryKey/sitemap.xml
+Sitemap: https://codekeydownload.github.io/EnteryKey/sitemap.xml
